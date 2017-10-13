@@ -40,8 +40,6 @@
     "peerDependencies": {
         "react": ">=0.13"
     },
-    "devDependencies": {
-    },
-    "directories": {
-    }
+    "devDependencies": {},
+    "directories": {}
 }
